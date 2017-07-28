@@ -4,9 +4,7 @@ This a webpack and type script configuration for react and in18 plugin.
 
 ### What is this repository for? ###
 
-* TypeScript
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* TypeScript - React - i18n-webpack-plugin - Webpack
 
 ### How do I get set up? ###
 
