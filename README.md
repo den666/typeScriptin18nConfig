@@ -10,7 +10,7 @@ This a webpack and type script configuration for react and in18 plugin.
 
 * npm install
 
-### Contribution guidelines ###
+### Execute ###
 
 * run with npm run app
 this execute a webpack-dev-server and watch
