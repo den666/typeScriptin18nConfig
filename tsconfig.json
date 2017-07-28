@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "outDir": "./dist/js",
+    "sourceMap": true,
+    "allowJs": true,
+    "removeComments": true,
+    "noImplicitAny": true,
+    "jsx": "react",
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules",".npm","./dist/js"]
+}
