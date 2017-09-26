@@ -58,7 +58,7 @@ var getOutPuts = function () {
                         languages[language], {functionName: '___'}
                     ),
                     new HtmlWebpackPlugin({
-                        title: 'Multibancos '+language,
+                        title: 'TypeScript i18n config '+language,
                         filename: '../index_'+language+'.html',
                         template: 'src/template.html'
                     }),

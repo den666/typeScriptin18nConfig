@@ -9284,8 +9284,9 @@ module.exports = getHostComponentFromComposite;
 Object.defineProperty(exports, "__esModule", { value: true });
 const React = __webpack_require__(77);
 const ReactDOM = __webpack_require__(93);
+const countryName = "ecuador";
 exports.default = ReactDOM.render(React.createElement("div", { className: "MainPage" },
-    React.createElement("div", { className: "container container-static" }, "ecuador")), document.getElementById('AppRoot'));
+    React.createElement("div", { className: "container container-static" }, countryName)), document.getElementById('AppRoot'));
 
 
 /***/ }),
